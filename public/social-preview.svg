@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#080B14"/>
+  <circle cx="158" cy="112" r="190" fill="#2563EB" fill-opacity="0.2"/>
+  <circle cx="1048" cy="498" r="220" fill="#06B6D4" fill-opacity="0.15"/>
+  <rect x="76" y="76" width="1048" height="478" rx="36" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.08"/>
+  <text x="112" y="214" fill="#93C5FD" font-family="Arial, sans-serif" font-size="28" letter-spacing="8">SOFTWARE ENGINEER</text>
+  <text x="112" y="308" fill="white" font-family="Arial, sans-serif" font-size="76" font-weight="700">Jordan Lee</text>
+  <text x="112" y="380" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="34">Modern product engineering, polished frontends, scalable systems.</text>
+  <rect x="112" y="444" width="264" height="62" rx="31" fill="#2563EB"/>
+  <text x="158" y="484" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="700">Portfolio</text>
+</svg>

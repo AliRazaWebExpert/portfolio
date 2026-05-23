@@ -1,0 +1,5 @@
+node_modules
+dist
+.chrome-responsive-test
+.DS_Store
+.vite
